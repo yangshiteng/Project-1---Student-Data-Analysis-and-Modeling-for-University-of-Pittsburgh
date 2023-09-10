@@ -2,7 +2,8 @@
 
 ![image](https://github.com/yangshiteng/Project-1---Student-Data-Analysis-and-Modeling-for-University-of-Pittsburgh/assets/60442877/a2c87611-6434-4c42-82f1-bc9f0470eabc)
 
-[Check My Analytical Report]()
+[Check My Analytical Report](https://github.com/yangshiteng/Project-1---Student-Data-Analysis-and-Modeling-for-University-of-Pittsburgh/blob/main/Data%20Evaluation%20of%20Test%20Optional%20-%20Analytical%20Report.pdf)
+
 [Check My Coding Works]()
 
 # Project 2 - Data Prediction Model
@@ -11,4 +12,5 @@
 
 
 [Check My Analytical Report]()
+
 [Check My Coding Works]()
